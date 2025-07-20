@@ -1,0 +1,11 @@
+{
+    "translation": "Lead",
+    "texture": {
+        "crystal_texture": "mekanism:item/ingot_lead",
+        "budding_texture": "mekanism:block/block_lead"
+    },
+    "growth_chance": 1,
+    "dropped_item": "mekanism:raw_lead",
+    "normal_drop_chance": 7,
+    "max_drop_chance": 10
+}

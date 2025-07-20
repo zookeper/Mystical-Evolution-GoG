@@ -1,0 +1,11 @@
+{
+    "translation": "Uranium",
+    "texture": {
+        "crystal_texture": "mekanism:item/ingot_uranium",
+        "budding_texture": "mekanism:block/block_uranium"
+    },
+    "growth_chance": 1,
+    "dropped_item": "mekanism:raw_uranium",
+    "normal_drop_chance": 7,
+    "max_drop_chance": 10
+}

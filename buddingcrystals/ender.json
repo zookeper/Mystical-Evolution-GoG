@@ -1,0 +1,11 @@
+{
+    "translation": "Ender",
+    "texture": {
+        "crystal_texture": "minecraft:item/ender_pearl",
+        "budding_texture": "minecraft:item/ender_eye"
+    },
+    "growth_chance": 1,
+    "dropped_item": "minecraft:ender_pearl",
+    "normal_drop_chance": 7,
+    "max_drop_chance": 10
+}

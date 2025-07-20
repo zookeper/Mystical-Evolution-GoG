@@ -1,0 +1,11 @@
+{
+    "translation": "Copper",
+    "texture": {
+        "crystal_texture": "minecraft:item/copper_ingot",
+        "budding_texture": "minecraft:block/copper_block"
+    },
+    "growth_chance": 1,
+    "dropped_item": "minecraft:raw_copper",
+    "normal_drop_chance": 7,
+    "max_drop_chance": 10
+}

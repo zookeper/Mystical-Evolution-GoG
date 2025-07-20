@@ -1,0 +1,11 @@
+{
+    "translation": "Amethyst",
+    "texture": {
+        "crystal_texture": "minecraft:amethyst_shard",
+        "budding_texture": "minecraft:amethyst_block"
+    },
+    "growth_chance": 1,
+    "dropped_item": "minecraft:amethyst_block",
+    "normal_drop_chance": 7,
+    "max_drop_chance": 10
+}

@@ -1,0 +1,11 @@
+{
+    "translation": "Osmium",
+    "texture": {
+        "crystal_texture": "mekanism:item/ingot_osmium",
+        "budding_texture": "mekanism:block/block_osmium"
+    },
+    "growth_chance": 1,
+    "dropped_item": "mekanism:raw_osmium",
+    "normal_drop_chance": 7,
+    "max_drop_chance": 10
+}

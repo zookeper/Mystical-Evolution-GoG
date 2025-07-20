@@ -1,0 +1,11 @@
+{
+    "translation": "Coal",
+    "texture": {
+        "crystal_texture": "minecraft:item/coal",
+        "budding_texture": "minecraft:block/coal_block"
+    },
+    "growth_chance": 1,
+    "dropped_item": "minecraft:coal",
+    "normal_drop_chance": 7,
+    "max_drop_chance": 10
+}

@@ -1,0 +1,11 @@
+{
+    "translation": "Gold",
+    "texture": {
+        "crystal_texture": "minecraft:item/gold_ingot",
+        "budding_texture": "minecraft:block/gold_block"
+    },
+    "growth_chance": 1,
+    "dropped_item": "minecraft:raw_gold",
+    "normal_drop_chance": 7,
+    "max_drop_chance": 10
+}
