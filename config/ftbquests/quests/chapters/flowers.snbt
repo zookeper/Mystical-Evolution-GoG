@@ -1,0 +1,252 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flowers"
+	group: "0FA10C3FF31D8A99"
+	id: "50FA85A265B1F38F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5033DB754D13F299"
+			rewards: [{
+				id: "08FAB50982A0107A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "527AFCEFC3EDA251"
+				item: "botania_seeds:white_mystical_flower_seed"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			id: "1F3F3A5A1CAEB249"
+			rewards: [{
+				id: "7DC9A9D4AED71F41"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4A137B78E9CEB810"
+				item: "botania_seeds:orange_mystical_flower_seed"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			id: "11D30A3E27F7DBE4"
+			rewards: [{
+				id: "7B406479CD49CF9D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "646B18C529D63666"
+				item: "botania_seeds:magenta_mystical_flower_seed"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "70B0E35880E44997"
+			rewards: [{
+				id: "0104A0932ABAAE60"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "238D5E4079E3D3AB"
+				item: "botania_seeds:light_blue_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			id: "17FD5AF0EFD319E4"
+			rewards: [{
+				id: "2918BB9C112A1DAA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "081D7AFF361BA89B"
+				item: "botania_seeds:yellow_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			id: "7362ED2BF30C976D"
+			rewards: [{
+				id: "675625EA9BF0F06D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "21019B6CF0FF44C5"
+				item: "botania_seeds:lime_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			id: "51DBDCAF92D6032E"
+			rewards: [{
+				id: "3AD58893C2706BAD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7AE2E9F0CA0A790C"
+				item: "botania_seeds:pink_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			id: "34EF3E755D5667DB"
+			rewards: [{
+				id: "65E3FD3744DF878A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7148256DA00181DD"
+				item: "botania_seeds:gray_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -3.5d
+		}
+		{
+			id: "1738201C045A4EAD"
+			rewards: [{
+				id: "3E6BA79754427D7D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5347304897CAAB01"
+				item: "botania_seeds:light_gray_mystical_flower_seed"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			id: "0E4D85D54F20E502"
+			rewards: [{
+				id: "0368FE7855104230"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "14207F677C06087D"
+				item: "botania_seeds:cyan_mystical_flower_seed"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			id: "6D54E1183611476F"
+			rewards: [{
+				id: "4CA92E1B5D9C43BD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1572CC8FDDA47E6F"
+				item: "botania_seeds:purple_mystical_flower_seed"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "6BDA835525B844FF"
+			rewards: [{
+				id: "6BE39A2891B0488E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4C4F9BA4F3C036DE"
+				item: "botania_seeds:brown_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "19E57EF910FF1839"
+			rewards: [{
+				id: "09FAFB51F69E4D3E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "22BCEF53776D2689"
+				item: "botania_seeds:green_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			id: "4E654C1635F95F23"
+			rewards: [{
+				id: "404B3FA32AE3BC4E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "08DF382E5D147427"
+				item: "botania_seeds:blue_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "1D9669A447EECFFE"
+			rewards: [{
+				id: "0232F140CF210215"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "465DE3339CE1552C"
+				item: "botania_seeds:red_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			id: "61B3BAE95ED12C78"
+			rewards: [{
+				id: "134DA8008432EA01"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "590CC5C8989446AF"
+				item: "botania_seeds:black_mystical_flower_seed"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+	]
+	title: "Flower seeds"
+}

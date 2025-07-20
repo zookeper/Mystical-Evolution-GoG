@@ -1,0 +1,9 @@
+{
+	chapter_groups: [
+		{ id: "23980A46FA6BD343", title: "EMC SHOP!" }
+		{ id: "0FA10C3FF31D8A99", title: "The Beginning" }
+		{ id: "2DF07D2A898CDB53", title: "On Downward!" }
+		{ id: "45A8FACAC0210186", title: "To The Stars!" }
+		{ id: "73DF69F2AD720D09", title: "Strange New Worlds" }
+	]
+}

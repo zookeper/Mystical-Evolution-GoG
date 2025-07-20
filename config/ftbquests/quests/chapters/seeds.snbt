@@ -1,0 +1,275 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "seeds"
+	group: "0FA10C3FF31D8A99"
+	id: "2A936C14B0D86A28"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "59AB5AFC6A5D80D1"
+			tasks: [{
+				id: "37AFC768B5E29CAB"
+				item: "minecraft:wheat_seeds"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			id: "774AF95B1A72F791"
+			tasks: [{
+				id: "6F7CAEB42E466C06"
+				item: "mysticalagriculture:prosperity_seed_base"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.0d
+		}
+		{
+			id: "40EBADB04483F2B1"
+			tasks: [{
+				id: "3964DBD5A5F5EB52"
+				item: "mysticalagriculture:air_seeds"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			id: "2DA7F754F90D23F0"
+			tasks: [{
+				id: "13CEB1887A3F8A70"
+				item: "mysticalagriculture:fire_seeds"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			id: "5DD502E5CA25E277"
+			tasks: [{
+				id: "4E547C351E4B8A98"
+				item: "mysticalagriculture:water_seeds"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			id: "0E34DA6C62912BC6"
+			tasks: [{
+				id: "5FF2DF554E48D180"
+				item: "mysticalagriculture:earth_seeds"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			id: "1DE4E1F45D17F97D"
+			tasks: [{
+				id: "2B4265FE7240B7EF"
+				item: "mysticalagriculture:stone_seeds"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			id: "010F87DA7A200A07"
+			tasks: [{
+				id: "09977F698494ECB8"
+				item: "mysticalagriculture:dirt_seeds"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			id: "29C650E2180642CA"
+			tasks: [{
+				id: "45654C15AED39389"
+				item: "mysticalagriculture:soulium_seed_base"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["59A37C6A90194005"]
+			id: "7ECB20126672B9E6"
+			tasks: [{
+				id: "78F6A902AA434392"
+				item: "botania:orechid"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7ECB20126672B9E6"]
+			id: "14BB48691DD84F40"
+			tasks: [{
+				id: "0A0B1D1A0C1564F8"
+				item: "botania:orechid_ignem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "202538FBD44A8CE6"
+			tasks: [{
+				id: "4F945F78314E72DB"
+				item: "buddingcrystals:budding_fluix"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			id: "3029522650EECED1"
+			tasks: [{
+				id: "70550E2FFC28B6C8"
+				item: "buddingcrystals:budding_nether_quartz"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			id: "5E9D883ADDFA5FCC"
+			tasks: [{
+				id: "5AAD9451409946C8"
+				item: "buddingcrystals:budding_diamond"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -8.5d
+		}
+		{
+			id: "55367DBFC0E1AB2A"
+			tasks: [{
+				id: "7B2FE3219317D5D2"
+				item: "buddingcrystals:budding_emerald"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -9.5d
+		}
+		{
+			id: "66BCDD39349CEBBB"
+			tasks: [{
+				id: "695E7E61AC04D647"
+				item: "buddingcrystals:budding_prismarine"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -10.5d
+		}
+		{
+			id: "48267723F77F9D3E"
+			tasks: [{
+				id: "5B010E7200D3615F"
+				item: "buddingcrystals:budding_lapis_lazuli"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -8.5d
+		}
+		{
+			id: "749A3213987937FD"
+			tasks: [{
+				id: "41D41877B0B18002"
+				item: "buddingcrystals:budding_redstone"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -8.5d
+		}
+		{
+			id: "01AEDEFC6A6CA9CB"
+			tasks: [{
+				id: "52F23BF76FE28D50"
+				item: "buddingcrystals:budding_glowstone"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -8.5d
+		}
+		{
+			id: "1491D4040870DF9A"
+			tasks: [{
+				id: "04233B7612DBE854"
+				item: "buddingcrystals:budding_certus_quartz"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			id: "7279BB69EB023587"
+			tasks: [{
+				id: "633E025AC6E35796"
+				item: "buddingcrystals:crystal_catalyst"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			id: "1F8C05F3F47035FE"
+			rewards: [{
+				id: "7440A1C9DB1CDD40"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "787BAB96B86B86A9"
+				type: "dimension"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			id: "6EE2F82FC8C2C8FB"
+			tasks: [{
+				id: "1634FB2C556A26D3"
+				item: "buddingcrystals:budding_iron"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -8.5d
+		}
+		{
+			id: "17C2301D16BF8212"
+			tasks: [{
+				id: "1E369BC44BE90095"
+				item: "buddingcrystals:budding_uranium"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -11.5d
+		}
+		{
+			id: "3D376AB1E64759F9"
+			rewards: [{
+				id: "67F685A2AF2823E7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2D7A6F28E237598F"
+				item: "mahoutsukai:mortar_and_pestle"
+				type: "item"
+			}]
+			title: "resource doubling"
+			x: 1.0d
+			y: -5.5d
+		}
+	]
+	title: "Resrouces"
+}

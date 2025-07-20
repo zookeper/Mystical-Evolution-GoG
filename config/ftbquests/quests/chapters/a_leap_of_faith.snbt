@@ -1,0 +1,128 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a_leap_of_faith"
+	group: "2DF07D2A898CDB53"
+	id: "31C8F30D5F7B8A8E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["34FFA90F27ACEEE8"]
+			description: ["You will need to progress throguh this strange world but we seem to be trapped, maybe one of these connected dimensions has the way out. BEWARE the creatures in these worlds can be formiddable, you will need good equipment, look into making a mekasuit."]
+			id: "0CB4BF1073B91082"
+			rewards: [
+				{
+					id: "0CD3249CBF90DB97"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5CE2A25818A1FF57"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "65BF6632B021E8C5"
+				type: "dimension"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0D3C5C723AED0376"]
+			id: "11BE4A8D8733C90E"
+			rewards: [
+				{
+					id: "0D5ED355C429FBE4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "09C03BB56B95B0C9"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "aether:the_aether"
+				id: "25A0E683C641F7E1"
+				type: "dimension"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0CB4BF1073B91082"]
+			id: "0D3C5C723AED0376"
+			rewards: [
+				{
+					id: "6CADDB3A799742AA"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "529D08684914A8AD"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "6C3181C0A37BB5CB"
+				type: "dimension"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "34FFA90F27ACEEE8"
+			rewards: [
+				{
+					id: "0DBF5597B2BC76F0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "680ABFF80B5DA6EA"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "57D76DD6007739D5"
+				type: "dimension"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+	]
+	title: "A leap of faith"
+}

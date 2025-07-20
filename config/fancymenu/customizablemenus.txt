@@ -1,0 +1,5 @@
+type = customizablemenus
+
+net.builderdog.ancient_aether.client.gui.screen.AncientAetherTitleScreen {
+}
+

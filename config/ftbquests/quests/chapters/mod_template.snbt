@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mod_template"
+	group: "23980A46FA6BD343"
+	id: "65984EA3CB326250"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Mod template"
+}

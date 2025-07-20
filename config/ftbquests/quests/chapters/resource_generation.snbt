@@ -1,0 +1,327 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "resource_generation"
+	group: "0FA10C3FF31D8A99"
+	icon: "skyblock_resources:wooden_empty_generator"
+	id: "50DC00C20F6C879B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["59A85C1AA96AD914"]
+			hide_dependency_lines: false
+			icon: "skyblock_resources:wooden_empty_generator"
+			id: "0C7166DD0AED475A"
+			rewards: [{
+				id: "4E75C4F22DDE092E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "01DBE375515CEDE7"
+				item: "skyblock_resources:wooden_empty_generator"
+				type: "item"
+			}]
+			title: "Wooden Generator"
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"59A85C1AA96AD914"
+				"5CFC33F4EFB7CBAF"
+			]
+			icon: "skyblock_resources:wooden_dirt_generator"
+			id: "741E20F502D381B6"
+			rewards: [{
+				id: "43A9B785DDBEBBAC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7093D539A9852507"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			title: "Dirt Generation"
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"59A85C1AA96AD914"
+				"6F2A3D9D80D065F7"
+			]
+			icon: "skyblock_resources:wooden_cobblestone_generator"
+			id: "47FFB6F8975AF331"
+			rewards: [{
+				id: "77F31787720E89CA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "377D69885A5A0B69"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			title: "Cobblestone Generation"
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["59A85C1AA96AD914"]
+			icon: "skyblock_resources:wooden_sand_generator"
+			id: "03C0B5BA53507A5B"
+			rewards: [{
+				id: "638018F4D7D90A70"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "54FC74A9CD901177"
+				item: "minecraft:sand"
+				type: "item"
+			}]
+			title: "Sand Generation"
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"59A85C1AA96AD914"
+				"4FF96D91319B2612"
+			]
+			hide_dependency_lines: false
+			icon: "skyblock_resources:wooden_clay_generator"
+			id: "43B2CA8ED38EE2E2"
+			rewards: [{
+				id: "7087F832A1885D8D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "32F7951F8DF2A82D"
+				item: "minecraft:clay"
+				type: "item"
+			}]
+			title: "Clay Generation"
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["59A85C1AA96AD914"]
+			hide_dependency_lines: false
+			icon: "skyblock_resources:wooden_end_stone_generator"
+			id: "08A2166DE8A72E33"
+			rewards: [{
+				id: "5E73D518E864522E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "14DDBCB683016CA9"
+				item: "minecraft:end_stone"
+				type: "item"
+			}]
+			title: "End Stone Generation"
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["59A85C1AA96AD914"]
+			hide_dependency_lines: false
+			icon: "skyblock_resources:wooden_gravel_generator"
+			id: "000EEEA14911C80B"
+			rewards: [{
+				id: "007947EA63F66148"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "19AE6D1442163391"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			title: "Gravel Generation"
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["59A85C1AA96AD914"]
+			hide_dependency_lines: false
+			icon: "skyblock_resources:wooden_andesite_generator"
+			id: "5015071990E1F7B3"
+			rewards: [{
+				id: "2E3B244E93412808"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6FC2C76F3212AC5D"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			title: "Andesite Generation"
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["59A85C1AA96AD914"]
+			hide_dependency_lines: false
+			icon: "skyblock_resources:wooden_sky_stone_generator"
+			id: "69604EB73C37B1DA"
+			rewards: [{
+				id: "08C92C37E2334CD0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6D60CA94C4BDFEB3"
+				item: "ae2:sky_stone_block"
+				type: "item"
+			}]
+			title: "Sky Stone Generation"
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6F2A3D9D80D065F7"]
+			id: "5A5D4E18067B5D23"
+			tasks: [{
+				id: "4DFD90821E6E6865"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4FF96D91319B2612"]
+			id: "202F17C187E7FD8A"
+			tasks: [{
+				id: "7C2987F6340DF694"
+				item: "botanypots:terracotta_botany_pot"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"39A1B3C2E932BCB8"
+				"5CFC33F4EFB7CBAF"
+			]
+			id: "7D7627366DACA65E"
+			rewards: [{
+				id: "2D39078619F1BBDA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 8L
+				id: "2450279AFF612C17"
+				item: { Count: 8, id: "minecraft:mud" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			id: "5CFC33F4EFB7CBAF"
+			rewards: [{
+				id: "1E56FD0D74EB6C39"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 8L
+				id: "51E97D69514A5382"
+				item: { Count: 8, id: "minecraft:dirt" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			id: "39A1B3C2E932BCB8"
+			rewards: [{
+				id: "4666324319AF27A0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "47A0DF2254B4C087"
+				item: {
+					Count: 1
+					id: "woodenbucket:wooden_bucket"
+					tag: {
+						Damage: 0
+						Fluid: {
+							Amount: 1000
+							FluidName: "minecraft:water"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"7D7627366DACA65E"
+				"5A5D4E18067B5D23"
+			]
+			id: "4FF96D91319B2612"
+			rewards: [{
+				id: "0C0E530B17672586"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 8L
+				id: "4F5C459AAF824EFD"
+				item: { Count: 8, id: "minecraft:clay" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["52818CBE0161EE81"]
+			id: "6F2A3D9D80D065F7"
+			tasks: [{
+				count: 8L
+				id: "632683ED5F1EF362"
+				item: { Count: 8, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -6.0d
+		}
+		{
+			id: "52818CBE0161EE81"
+			tasks: [{
+				count: 4L
+				id: "7ACD56BE48B1EF32"
+				item: { Count: 4, id: "botania:pebble" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["202F17C187E7FD8A"]
+			id: "1CE0E8A78A001E57"
+			tasks: [{
+				id: "0F1588F564156CF1"
+				item: "botanypots:terracotta_hopper_botany_pot"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -6.0d
+		}
+	]
+	title: "Generation"
+}

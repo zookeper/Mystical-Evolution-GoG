@@ -1,0 +1,263 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ad_astra"
+	group: "45A8FACAC0210186"
+	icon: {
+		Count: 1
+		id: "ad_astra:tier_4_rocket"
+		tag: {
+			BotariumData: {
+				StoredFluids: [{
+					Amount: 3000L
+					Fluid: "ad_astra:fuel"
+				}]
+			}
+		}
+	}
+	id: "3A8B0BC5416526EA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "63D23543469335CD"
+			rewards: [
+				{
+					id: "25DA5AAAE385CD50"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "153047AAE9DC363D"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0578432ABFF46E2B"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_1_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "73A937C688C464B1"
+			rewards: [
+				{
+					id: "73B97A33F9713B4F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4AFE67E250E0A809"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "ad_astra:earth_orbit"
+				id: "4AA2FD4377221FD2"
+				type: "dimension"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			id: "341C6CBA180666ED"
+			rewards: [
+				{
+					id: "09454028DDC2E3AD"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3F2347DC755340CD"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "ad_astra:moon_orbit"
+				id: "606865E1D8816BE4"
+				type: "dimension"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			id: "3473F5724DAEB805"
+			rewards: [
+				{
+					id: "1728B6721E434A25"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "57A2AEAD709A745F"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "ad_astra:moon"
+				id: "45E5CBC1876327EB"
+				type: "dimension"
+			}]
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			id: "3DCF8561E6CC169B"
+			tasks: [{
+				id: "4BD6EB1D62221D82"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_2_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			id: "66A13968B5869919"
+			tasks: [{
+				id: "1E92DA8ED8D637A7"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_3_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "3778A696C6C75C48"
+			tasks: [{
+				id: "7777FF149A874B0C"
+				item: {
+					Count: 1
+					id: "ad_astra:tier_4_rocket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			id: "7AD8FC4B4A09F5C7"
+			rewards: [{
+				id: "17F57CFB7A394CC8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "ad_astra:mars_orbit"
+				id: "234A8B7188123584"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "6403DC1C53CE8E81"
+			rewards: [
+				{
+					id: "45F40A6615EEC40E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "79338F05D91AF173"
+					item: {
+						Count: 1
+						id: "hoths_projecte_utilities:emc_bottle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "ad_astra:mars"
+				id: "6DDA7C8084C50D96"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["0D3C5C723AED0376"]
+			id: "37BEC43C9417E88F"
+			tasks: [{
+				amount: 1000L
+				fluid: "ad_astra:oil"
+				id: "2B1A4FC5610F80D2"
+				type: "fluid"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"3473F5724DAEB805"
+				"6403DC1C53CE8E81"
+			]
+			id: "466DADAEE1FB4AB4"
+			tasks: [{
+				id: "331B51E837D7101B"
+				item: "ad_astra:sky_stone"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["466DADAEE1FB4AB4"]
+			id: "2E483029B5ADA29B"
+			tasks: [{
+				id: "133AB5B187C4F725"
+				item: "ae2:sky_stone_block"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -9.0d
+		}
+	]
+	title: "Ad Astra"
+}

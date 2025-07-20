@@ -1,0 +1,93 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stargate"
+	group: "45A8FACAC0210186"
+	icon: "sgjourney:golden_idol"
+	id: "5FCD8C41C0C5E516"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "36D6478C70E7B523"
+			tasks: [{
+				dimension: "sgjourney:abydos"
+				id: "61474126204C040F"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "51CACEA8F37220C8"
+			tasks: [{
+				dimension: "sgjourney:athos"
+				id: "22D4513242ACBAD7"
+				type: "dimension"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "4F8A7830428D777F"
+			tasks: [{
+				dimension: "sgjourney:cavum_tenebrae"
+				id: "4AC2B2A8B0829FB2"
+				type: "dimension"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "31486C28F8658AEA"
+			tasks: [{
+				dimension: "sgjourney:chulak"
+				id: "4FAA6824ADA31780"
+				type: "dimension"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "7AF0EB521A415A95"
+			tasks: [{
+				dimension: "sgjourney:lantea"
+				id: "2A381503364AC732"
+				type: "dimension"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "0CCC36672D934747"
+			tasks: [{
+				dimension: "sgjourney:lantea"
+				id: "5EDB06CDF501D23E"
+				type: "dimension"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			id: "70BF9195CBC40FFD"
+			tasks: [{
+				dimension: "sgjourney:rima"
+				id: "58E4CBE91FEDCB21"
+				type: "dimension"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			id: "531FF731B230CCF4"
+			tasks: [{
+				dimension: "sgjourney:unitas"
+				id: "155DE29646C1660A"
+				type: "dimension"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+	]
+	title: "Stargate"
+}

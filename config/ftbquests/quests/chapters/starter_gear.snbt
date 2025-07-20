@@ -1,0 +1,139 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starter_gear"
+	group: "23980A46FA6BD343"
+	id: "5BA6A3A96778D4D8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: "sophisticatedbackpacks:backpack"
+			id: "7966C751029A5CAF"
+			rewards: [{
+				id: "5E11A97FBC5A6026"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "6D263439951AA6A7"
+				item: {
+					Count: 1
+					id: "hoths_projecte_utilities:emc_bottle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			icon: "skyblock_resources:wooden_empty_generator"
+			id: "167A22A390B4D90B"
+			rewards: [{
+				count: 5
+				id: "121FCDCC9D3B4D56"
+				item: "skyblock_resources:wooden_empty_generator"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "2671B6293B6FE1F5"
+				item: {
+					Count: 1
+					id: "hoths_projecte_utilities:emc_bottle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			icon: "mekanism:resistive_heater"
+			id: "013AF0200E77574F"
+			rewards: [{
+				id: "6ACA6A2AF9C7CD2C"
+				item: "mekanism:resistive_heater"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "51AD5A0D02675D93"
+				item: {
+					Count: 1
+					id: "hoths_projecte_utilities:emc_bottle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				id: "minecraft:firework_rocket"
+				tag: {
+					Fireworks: {
+						Flight: 1b
+					}
+				}
+			}
+			id: "579C0EF1E80BAF0B"
+			rewards: [
+				{
+					count: 32
+					id: "7E8DE0D012AE4A2C"
+					item: {
+						Count: 1
+						id: "minecraft:firework_rocket"
+						tag: {
+							Fireworks: {
+								Flight: 1b
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3737B48F1478AF7A"
+					item: {
+						Count: 1
+						id: "minecraft:elytra"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "72A2C730EC0E0245"
+				item: {
+					Count: 1
+					id: "hoths_projecte_utilities:emc_bottle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+	]
+	title: "Starter Gear"
+}
