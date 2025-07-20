@@ -1,0 +1,116 @@
+
+#Water Sword Effects
+[water_sword_effects]
+	#Level of Dolphins Grace Effect
+	level_dolphins_grace_effect = 5
+	#Level of Water Breathing Effect
+	level_water_breathing_effect = 5
+	#Enable Conduit Power Effect [true / false]
+	conduit_power_effect = true
+	#Level of Conduit Power Effect
+	level_conduit_power_effect = 5
+	#Enable Dolphins Grace Effect [true / false]
+	dolphins_grace_effect = true
+	#Enable Water Breathing Effect [true / false]
+	water_breathing_effect = true
+
+#Air Sword Effects
+[air_sword_effects]
+	#Enable Jump Effect [true / false]
+	jump_effect = true
+	#Enable Movement Speed Effect [true / false]
+	movement_speed_effect = true
+	#Enable Slow Falling Effect [true / false]
+	slow_falling_effect = true
+
+#Fire Sword Level Effects
+[fire_sword_level_effects]
+	#Level of Fire Resistance Effect
+	level_fire_resistance_effect = 5
+
+#Fusion Sword Level Effects
+[fusion_sword_level_effects]
+	#Level of Damage Resistance Effect
+	level_damage_resistance_effect = 3
+	#Level of Dolphins Grace Effect
+	level_dolphins_grace_effect = 5
+	#Level of Regeneration Effect
+	level_regeneration_effect = 5
+	#Level of Movement Speed  Effect
+	level_movement_speed_effect = 5
+	#Level of Absorption Effect
+	level_absorption_effect = 3
+	#Level of Health Boost Effect
+	level_health_effect = 5
+	#Level of Conduit Power Effect
+	level_conduit_power_effect = 5
+	#Level of Water Breathing Effect
+	level_water_breathing_effect_effect = 5
+	#Level of Jump Effect
+	level_jump_effect = 5
+	#Level of Damage Boost Effect
+	level_damage_boost_effect = 3
+	#Level of Slow Falling Effect
+	level_slow_falling_effect = 5
+	#Level of Fire Resistance Effect
+	level_fire_resistance_effect = 5
+
+#Air Sword Level Effects
+[air_sword_level_effects]
+	#Level of Movement Speed Effect
+	level_movement_speed_effect = 3
+	#Level of Jump Effect
+	level_jump_effect = 5
+	#Level of Slow Falling Effect
+	level_slow_falling_effect = 5
+
+#Fusion Sword Effects
+[fusion_sword_effects]
+	#Enable Jump Effect [true / false]
+	jump_effect = true
+	#Enable Movement Speed Effect [true / false]
+	movement_speed_effect = true
+	#Enable Regeneration [true / false]
+	regeneration_effect = true
+	#Enable Damage Resistance Effect [true / false]
+	damage_resistance_effect = true
+	#Enable Health Boost [true / false]
+	health_effect = true
+	#Enable Absorption Effect [true / false]
+	absorption_effect = true
+	#Enable Conduit Power Effect [true / false]
+	conduit_power_effect = true
+	#Enable Slow Falling Effect [true / false]
+	slow_falling_effect = true
+	#Enable Damage Boost Effect [true / false]
+	damage_boost_effect = true
+	#Enable Dolphins Grace Effect [true / false]
+	dolphins_grace_effect = true
+	#Enable Water Breathing Effect [true / false]
+	water_breathing_effect = true
+	#Enable Fire Resistance [true / false]
+	fire_resistance_effect = true
+
+#Earth Sword Effects
+[earth_sword_effects]
+	#Enable Damage Resistance Effect [true / false]
+	damage_resistance_effect = true
+	#Enable Absorption Effect [true / false]
+	absorption_effect = true
+	#Enable Damage Boost Effect [true / false]
+	damage_boost_effect = true
+
+#Earth Sword Level Effects
+[earth_sword_level_effects]
+	#Level of Damage Resistance Effect
+	level_damage_resistance_effect = 5
+	#Level of Absorption Effect
+	level_absorption_effect = 5
+	#Level of Damage Boost Effect
+	level_damage_boost_effect = 5
+
+#Fire Sword Effects
+[fire_sword_effects]
+	#Enable Fire Resistance [true / false]
+	fire_resistance_effect = true
+
