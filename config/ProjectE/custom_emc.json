@@ -1,0 +1,308 @@
+{
+  "entries": [
+    {
+      "item": "ars_nouveau:worn_notebook",
+      "emc": 1
+    },
+    {
+      "item": "#minecraft:bookshelf_books",
+      "emc": 0
+    },
+    {
+      "item": "#easy_mob_farm:meat",
+      "emc": 1
+    },
+    {
+      "item": "powah:crystal_blazing",
+      "emc": 3072
+    },
+    {
+      "item": "#forge:ingots/gold",
+      "emc": 1024
+    },
+    {
+      "item": "powah:steel_energized",
+      "emc": 2560
+    },
+    {
+      "item": "powah:crystal_niotic",
+      "emc": 16384
+    },
+    {
+      "item": "powah:crystal_spirited",
+      "emc": 32768
+    },
+    {
+      "item": "powah:crystal_nitro",
+      "emc": 336128
+    },
+    {
+      "item": "powah:uraninite",
+      "emc": 8192
+    },
+    {
+      "item": "#forge:stone",
+      "emc": 8
+    },
+    {
+      "item": "powah:ender_core",
+      "emc": 5824
+    },
+    {
+      "item": "#forge:ingots/iron",
+      "emc": 128
+    },
+    {
+      "item": "integrateddynamics:crystalized_menril_chunk",
+      "emc": 32
+    },
+    {
+      "item": "#botania:special_flowers",
+      "emc": 0
+    },
+    {
+      "item": "#botania:mystical_flowers",
+      "emc": 128
+    },
+    {
+      "item": "botania:grass_seeds",
+      "emc": 1024
+    },
+    {
+      "item": "#minecraft:planks",
+      "emc": 1
+    },
+    {
+      "item": "#botania:double_mystical_flowers",
+      "emc": 256
+    },
+    {
+      "item": "#forge:dyes",
+      "emc": 64
+    },
+    {
+      "item": "#botania:special_floating_flowers",
+      "emc": 0
+    },
+    {
+      "item": "#botania:shimmering_mushrooms",
+      "emc": 128
+    },
+    {
+      "item": "#forge:mushrooms",
+      "emc": 64
+    },
+    {
+      "item": "woodenbucket:wooden_bucket",
+      "emc": 0
+    },
+    {
+      "item": "projecte:low_covalence_dust",
+      "emc": 32
+    },
+    {
+      "item": "projecte:high_covalence_dust",
+      "emc": 256
+    },
+    {
+      "item": "projecte:medium_covalence_dust",
+      "emc": 64
+    },
+    {
+      "item": "#forge:logs/archwood",
+      "emc": 8
+    },
+    {
+      "item": "#forge:budding",
+      "emc": 0
+    },
+    {
+      "item": "#forge:buds",
+      "emc": 0
+    },
+    {
+      "item": "ae2:certus_quartz_crystal",
+      "emc": 128
+    },
+    {
+      "item": "ae2:certus_quartz_dust",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:grass",
+      "emc": 16
+    },
+    {
+      "item": "#forge:cobblestone",
+      "emc": 8
+    },
+    {
+      "item": "#forge:cobblestone/deepslate",
+      "emc": 8
+    },
+    {
+      "item": "#forge:cobblestone/infested",
+      "emc": 8
+    },
+    {
+      "item": "#forge:cobblestone/mossy",
+      "emc": 8
+    },
+    {
+      "item": "#forge:cobblestone/normal",
+      "emc": 8
+    },
+    {
+      "item": "projecte:philosophers_stone",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:glass",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:sand",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:clay",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:ice",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "emc": 2
+    },
+    {
+      "item": "botania:life_essence",
+      "emc": 198936
+    },
+    {
+      "item": "botanicadds:gaia_shard",
+      "emc": 24867
+    },
+    {
+      "item": "minecraft:oak_sapling",
+      "emc": 4
+    },
+    {
+      "item": "mysticalagriculture:iron_essence",
+      "emc": 85
+    },
+    {
+      "item": "minecraft:elytra{Damage:0}",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:calcite",
+      "emc": 8
+    },
+    {
+      "item": "#mysticalagriculture:essences",
+      "emc": 0
+    },
+    {
+      "item": "#mysticalagriculture:seeds",
+      "emc": 0
+    },
+    {
+      "item": "#minecraft:saplings",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:red_sand",
+      "emc": 8
+    },
+    {
+      "item": "#forge:ingots/copper",
+      "emc": 128
+    },
+    {
+      "item": "#forge:ingots/osmium",
+      "emc": 128
+    },
+    {
+      "item": "#forge:ingots/tin",
+      "emc": 128
+    },
+    {
+      "item": "#forge:ingots/zinc",
+      "emc": 128
+    },
+    {
+      "item": "#forge:ingots/uranium",
+      "emc": 128
+    },
+    {
+      "item": "#forge:ingots/aluminum",
+      "emc": 128
+    },
+    {
+      "item": "#forge:ingots/nickel",
+      "emc": 128
+    },
+    {
+      "item": "#forge:ingots/brass",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:mud",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:netherrack",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:end_stone",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:slime_block",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:blackstone",
+      "emc": 8
+    },
+    {
+      "item": "#create:stone_types/crimsite",
+      "emc": 8
+    },
+    {
+      "item": "#create:stone_types/ochrum",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:dirt",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:soul_sand",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "emc": 128
+    },
+    {
+      "item": "#forge:wool",
+      "emc": 16
+    },
+    {
+      "item": "#forge:books",
+      "emc": 0
+    },
+    {
+      "item": "#artifacts:artifacts",
+      "emc": 0
+    }
+  ]
+}
